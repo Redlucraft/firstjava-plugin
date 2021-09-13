@@ -1,0 +1,5 @@
+nl/redlucraft/core/commands/GodCommand.class
+nl/redlucraft/core/events/XpEvent.class
+nl/redlucraft/core/Core.class
+nl/redlucraft/core/commands/FeedCommand.class
+nl/redlucraft/core/events/SheepEvent.class

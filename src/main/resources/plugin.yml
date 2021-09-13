@@ -1,0 +1,21 @@
+name: Core
+version: '${project.version}'
+main: nl.redlucraft.core.Core
+api-version: 1.16
+authors: [ Redlucraft ]
+description: Random Core
+website: https://Redlucraft.nl
+commands:
+  god:
+    description: Become a god
+    usage: /<command>
+    aliases:
+      - godmode
+      - promode
+      -
+
+  feed:
+    description: Food
+    usage: /<commmand>
+    aliases:
+      - food
